@@ -1,2 +1,2 @@
-# minikube-demo
+# minikube
 
